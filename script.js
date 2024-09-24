@@ -6,7 +6,7 @@ const closeModalButton = document.querySelector('.close-modal');
 
 // Function to open the modal
 openModalButton.onclick = function() {
-  modal.style.display = 'flex';
+  modal.style.display = 'block';
 }
 
 // Function to close the modal when clicked on close button
